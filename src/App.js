@@ -24,13 +24,8 @@ import Swal from "sweetalert2";
 import { BrowserRouter as Router, Routes, Route} from "react-router-dom"
 
 function App() {
-  //PUERTO DE LOS APIs
-  //PUERTO DE SERGIO
-  //const ApiPort = 81
-  //PUERTO DE SEBAS
+  //PUERTO
   const ApiPort = 81
-  //PUERTO DE ERICK
-  //const ApiPort = 81
 
   const [IdSucursalActual, setIdSucursalActual] = useState(0)
   const CambiarIdSucursal = (item) => {
