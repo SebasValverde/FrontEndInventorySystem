@@ -37,10 +37,16 @@ Pasos para instalar y configurar el proyecto localmente.
    npm install
    ```
 
-3. **Configurar Variables de Entorno:**
-   Crea un archivo `.env` en la raíz del proyecto y añade la URL base del back-end:
+3. **Configurar el Puerto del API:**
+   En el código del proyecto, el puerto del API se define mediante la constante `ApiPort`. Para configurarlo según tu entorno local, busca la declaración de `const ApiPort` en los archivos del proyecto y actualiza su valor al puerto que utiliza tu back-end.
+
+   Por ejemplo, si tu back-end está configurado en el puerto `3000`, cambia:
+   ```javascript
+   const ApiPort = 81;
    ```
-   REACT_APP_API_URL=http://localhost:puerto/api
+   a:
+   ```javascript
+   const ApiPort = 3000;
    ```
 
 4. **Iniciar el Proyecto:**
