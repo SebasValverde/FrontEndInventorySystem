@@ -14,9 +14,9 @@ El back-end, encargado de toda la lógica de negocio y la gestión de datos, se 
 Lista de tecnologías y herramientas empleadas en este proyecto:
 
 - **Framework de Front-End:** React
-- **Gestión de Estado:** React Context API (o Redux, si aplica)
+- **Gestión de Estado:** React State (usando `useState`).
 - **Diseño de Componentes:** CSS, Material-UI, Bootstrap (indica el que hayas utilizado)
-- **Manejo de Solicitudes HTTP:** Axios o Fetch API
+- **Manejo de Solicitudes HTTP:** Fetch API
 - **Control de Versiones:** Git y GitHub
 
 ---
