@@ -27,8 +27,8 @@ Pasos para instalar y configurar el proyecto localmente.
 
 1. **Clonar el Repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio-frontend.git
-   cd nombre-del-repositorio-frontend
+   git clone https://github.com/SebasValverde/FrontEndInventorySystem.git
+   cd FrontEndInventorySystem
    ```
 
 2. **Instalar Dependencias:**
