@@ -5,7 +5,7 @@
 
 Este proyecto forma parte del proyecto de un sistema de inventario diseñado en multicapas, este repostiorio muestra la capa de presentacion, desarrollada con React y el back-end desarrollado en c#. Proporciona una interfaz gráfica intuitiva que interactúa con el back-end mediante solicitudes HTTP, permitiendo la gestión de productos, sucursales, clientes, proveedores, empleados y pedidos.
 
-El back-end, encargado de toda la lógica de negocio y la gestión de datos, se encuentra en un repositorio independiente. Puedes acceder al back-end del proyecto [aquí](https://github.com/tu-usuario/nombre-del-repositorio-backend).
+El back-end, encargado de toda la lógica de negocio y la gestión de datos, se encuentra en un repositorio independiente. Puedes acceder al back-end del proyecto [aquí](https://github.com/SebasValverde/BackEndInventorySystem.git).
 
 ---
 
@@ -96,7 +96,7 @@ src/
 
 ## **Integración con el Back-End**
 
-Este proyecto depende del back-end para todas las operaciones de negocio y gestión de datos. Asegúrate de que el back-end esté configurado y en funcionamiento antes de iniciar el front-end. Consulta el repositorio del back-end para más detalles: [InventorySystem - Back-End](https://github.com/tu-usuario/nombre-del-repositorio-backend).
+Este proyecto depende del back-end para todas las operaciones de negocio y gestión de datos. Asegúrate de que el back-end esté configurado y en funcionamiento antes de iniciar el front-end. Consulta el repositorio del back-end para más detalles: [InventorySystem - Back-End](https://github.com/SebasValverde/BackEndInventorySystem.git).
 
 ---
 
