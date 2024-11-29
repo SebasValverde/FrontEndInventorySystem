@@ -21,6 +21,15 @@ A list of technologies and tools utilized in this project:
 
 ---
 
+## **Demonstration**
+
+Below is a video showcasing the functionality of the system:
+
+https://github.com/user-attachments/assets/b9103270-3b30-490d-90d3-ef0810dd4137
+
+
+---
+
 ## **Installation and Setup**
 
 Steps to install and configure the project locally:
